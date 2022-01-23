@@ -25,5 +25,5 @@ Here are some ideas to get you started:
  </P>
 
 <p align="center">
-  <img width=150% src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&column=7"/>
+  <img width=150%&point=ffffff src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&column=7"/>
 </p>
