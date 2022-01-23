@@ -35,6 +35,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <p align="center">
          
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&column=7"/>
+
+</p>
+
+         
       [![-----------------------------------------------------](
    https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yasinnorozzadeh?tab=repositories)
-</p>
