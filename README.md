@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yasinnorozzadeh?tab=repositories)
  </P>
 
-<summary><b>🔎 Github Profile Details</b></summary>
+<summary><b>Profile</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinnorozzadeh&theme=github_dark" alt="yasinnorozzadeh" align = "center"/></p>
 
   
@@ -39,5 +39,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 
          
-      [![-----------------------------------------------------](
-   https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yasinnorozzadeh?tab=repositories)
+
