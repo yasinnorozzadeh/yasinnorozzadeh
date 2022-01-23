@@ -20,7 +20,8 @@ Here are some ideas to get you started:
  <P align="center"
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&theme=radical)
- 
+ [![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yasinnorozzadeh?tab=repositories)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
  </P>
 
