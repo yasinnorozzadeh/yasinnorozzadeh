@@ -18,7 +18,7 @@ Here are some ideas to get you started:
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&theme=radical)
  
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
  </P>
