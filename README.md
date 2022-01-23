@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
  </P>
 
-
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&column=7"/>
+<p align="center">
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&column=7"/>
+</p>
