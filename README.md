@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yasin Norozzadeh welcome to my github
+### Welcome to my Github
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </p>
