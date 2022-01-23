@@ -27,12 +27,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
    [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yasinnorozzadeh?tab=repositories)
  </P>
- [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yasinnorozzadeh?tab=repositories)
+
 <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinnorozzadeh&theme=github_dark" alt="yasinnorozzadeh" align = "center"/></p>
 
   
 <p align="center">
+    [![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yasinnorozzadeh?tab=repositories)
   <img width=150%&point=ffffff src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&column=7"/>
 </p>
