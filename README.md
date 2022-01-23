@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
  </P>
 
+<summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinnorozzadeh&theme=github_dark" alt="yasinnorozzadeh" align = "center"/></p>
+
+  
 <p align="center">
   <img width=150%&point=ffffff src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&column=7"/>
 </p>
