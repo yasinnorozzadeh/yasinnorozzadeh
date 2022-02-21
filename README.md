@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinnorozzadeh&theme=dark" alt="King-Mufasa" />
+c  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinnorozzadeh&theme=dark" alt="King-Mufasa" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </p>
 <p align="center">
@@ -11,10 +10,11 @@
         />
     </a>
 </p>
-<img width=100% src="https://github-profile-trophy.vercel.app/?username==yasinnorozzadeh&column=7"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
 </p>
 
 
