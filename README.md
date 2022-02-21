@@ -11,7 +11,7 @@
 </p>
 
 
-<P align="center">
+<P align="center"
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&theme=radical)
  [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/yasinnorozzadeh?tab=repositories)
