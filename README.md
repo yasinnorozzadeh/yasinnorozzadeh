@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=00CED1" />
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&bg_color==0C090A&color=9400D3&line=79ff97&point=151515&area=true&hide_border=false)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&color=9400D3&line=79ff97&point=151515&area=true&hide_border=false)
 
 <P align="center"
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&theme=radical)
