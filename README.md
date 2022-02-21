@@ -6,7 +6,8 @@
         />
     </a>
 </p>
-[![yasinnorozzadeh/gitartwork](https://github.com/jasineri/gitartwork/blob/main/gitartwork.svg)](https://github.com/jasineri/gitartwork/)
+[![jasineri/gitartwork](https://github.com/jasineri/gitartwork/blob/main/gitartwork.svg)](https://github.com/jasineri/gitartwork/)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </p>
