@@ -6,7 +6,7 @@
         />
     </a>
 </p>
-
+<img width=100% src="https://github-profile-trophy.vercel.app/?username==yasinnorozzadeh&column=7"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
