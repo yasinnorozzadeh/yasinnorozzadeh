@@ -10,7 +10,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&bg_color=000080&title_color=ECF0F1&text_color=ECF0F1" />
-    <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&bg_color=000080&title_color=ECF0F1&icon_color=79ff97&text_color=ECF0F1" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&bg_color=000080&title_color=ECF0F1&icon_color=00FF00&text_color=ECF0F1" />
 </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&color=ECF0F1&bg_color=000080&line=79ff97&point=151515&area=true&hide_border=false)
