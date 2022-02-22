@@ -11,7 +11,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&bg_color=&title_color=9400D3&text_color=00CED1" />
     <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=00CED1" />
-
+</p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&color=9400D3&line=79ff97&point=151515&area=true&hide_border=false)
 
