@@ -40,6 +40,4 @@
   </p>
 </details>
 
-![](./profile-3d-contrib/profile-night-green.svg)
-
 <img src="https://imgur.com/rilHVxA.png"/>
