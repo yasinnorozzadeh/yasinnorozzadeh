@@ -31,4 +31,4 @@
 </p>
 
          
-![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/github-contribution-grid-snake.svg)
+![Snake animation](https://https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/.github/workflows/cobrinha_python.yml)
