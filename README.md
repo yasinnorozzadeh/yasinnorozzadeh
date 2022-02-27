@@ -34,7 +34,6 @@
 
 [![jasineri/gitartwork](https://github.com/jasineri/gitartwork/blob/main/gitartwork.svg)](https://github.com/jasineri/gitartwork/)
 <p>
-    <img width="55%" align="right" alt="mburakkorkmaz's github stats" src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&hide_border=true"/>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -48,3 +47,4 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<img src="https://imgur.com/rilHVxA.png"/>
