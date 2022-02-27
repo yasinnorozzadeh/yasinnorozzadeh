@@ -30,4 +30,4 @@
 
 </p>
 ![Snake animation](https://github.com/devassis/devassis/blob/output/github-contribution-grid-snake.svg)
-[![jasineri/gitartwork](https://github.com/jasineri/gitartwork/blob/main/gitartwork.svg)
+[![jasineri/gitartwork](https://github.com/jasineri/gitartwork/blob/main/gitartwork.svg)](https://github.com/jasineri/gitartwork/)
