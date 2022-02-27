@@ -36,7 +36,7 @@
 <div> 
 
  
-  ![Snake animation](https://github.com/Yasin Norozzadeh/yasinnorozzadeh/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/YasinNorozzadeh/yasinnorozzadeh/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
