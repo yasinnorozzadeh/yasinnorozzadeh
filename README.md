@@ -32,7 +32,6 @@
   </p>
 </details>
 
-[![jasineri/gitartwork](https://github.com/jasineri/gitartwork/blob/main/gitartwork.svg)](https://github.com/jasineri/gitartwork/)
 <p>
 
   <!-- Your languages and tools. Be careful with the alignment. 
