@@ -30,7 +30,6 @@
 
 </p>
 <details open="">
-  <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
    <a href="https://github.com/YasinNorozzadeh/YasinNorozzadeh"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
