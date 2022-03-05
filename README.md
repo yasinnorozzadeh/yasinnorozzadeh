@@ -48,6 +48,7 @@
   </p>
 </details>
 <div>
+ <img align="left" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
   <img src="https://imgur.com/rilHVxA.png"/>
 </div>
