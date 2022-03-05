@@ -32,9 +32,9 @@
  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinnorozzadeh&theme=github_dark" alt="yasinnorozzadeh" align = "center"/></p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
-  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&theme=react-dark) 
 <p align="center">
-         
+   
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&bg_color=000080&column=7"/>
 
 </p>
@@ -46,6 +46,6 @@
 </details>
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-<img src="https://imgur.com/rilHVxA.png"/>
+  <img src="https://imgur.com/rilHVxA.png"/>
 </div>
 <!--  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=false&theme=novatorem&bar_color=000080&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&redirect=false) -->
