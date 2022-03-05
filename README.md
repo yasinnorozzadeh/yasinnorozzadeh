@@ -47,4 +47,4 @@
 
 <img src="https://imgur.com/rilHVxA.png"/>
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=false&theme=novatorem&bar_color=ff00ea&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&redirect=true)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=false&theme=novatorem&bar_color=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&redirect=true)
