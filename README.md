@@ -39,5 +39,7 @@
    <a href="https://github.com/YasinNorozzadeh/YasinNorozzadeh"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
-
+<p>
+ <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+</p>
 <img src="https://imgur.com/rilHVxA.png"/>
