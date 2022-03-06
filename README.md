@@ -58,7 +58,7 @@
 <!--  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=false&theme=novatorem&bar_color=000080&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&redirect=false) -->
 
 <p align="center">
-src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" />
+ <img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="" height='120px' 
 </p>
 <p>
   <img src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
