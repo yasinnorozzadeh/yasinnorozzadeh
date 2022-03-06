@@ -1,4 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=180&section=header&fontSize=200&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<br><br>
+
+<div align="center">
+           <img src="https://github-widgetbox.vercel.app/api/profile?username=acaiberii&data=followers,repositories,stars,commits" width="50%">
+           <img src="https://github-widgetbox.vercel.app/api/skills?names=java,python,javascript,csharp,cpp" width="50%">
+           <br><br>
+           <img src="https://discord.c99.nl/widget/theme-2/631952859012923412.png" width="50%">
+           <br><br>
+           <img src="https://raw.githubusercontent.com/AcaiBerii/AcaiBerii/7f1d9655c6e64ece5b28e04dfd79478818aaf7d6/github-contribution-grid-snake.svg" width="50%">
+</div>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=180&section=header&fontSize=200&fontColor=fff&animation=twinkling&fontAlignY=35"/> -->
 <p>
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
