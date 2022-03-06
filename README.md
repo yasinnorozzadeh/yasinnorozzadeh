@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=180&section=header&text=false&fontSize=false&fontColor=fff&animation=twinkling&fontAlignY=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=180&section=header&fontSize=200&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 <p>
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
