@@ -57,3 +57,8 @@
 </div>
 <!--  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=false&theme=novatorem&bar_color=000080&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&redirect=false) -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=120&section=footer"/>
+<p>
+  visitantes<br />
+  <img src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
+  
+</p>
