@@ -10,7 +10,7 @@
 
 <p align="center">
     <img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="left" height='120px'                                src="https://raw.githubusercontent.com/fawzirjili/fawzirjili/8b8e2e6eef80d7a96a73e01163056637da762860/matrix.svg" /><img align="center" height='120px' 
-     src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" align="right"/>
+     src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /> <align="right"  height='120px'>
 </p>
 <p align="center">
  
