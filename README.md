@@ -60,8 +60,10 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
   
 </div>
-<!--  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=false&theme=novatorem&bar_color=000080&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&redirect=false) -->
 
+<p align="center">
+  <img src="https://ib.canaltech.com.br/361132.gif" />
+</p>
 
 <p>
   <img src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
