@@ -1,5 +1,5 @@
 <p>
- <img align="center" src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
+ <img src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
