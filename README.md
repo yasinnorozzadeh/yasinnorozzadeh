@@ -39,10 +39,8 @@
 </details>
 <div style="display: inline_block"  >
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-  
 </div>
-
-<p align="center">
+<p align="left">
   <img src="https://ib.canaltech.com.br/361132.gif" />
   <img src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
 </p>
