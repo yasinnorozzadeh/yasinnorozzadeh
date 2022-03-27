@@ -1,4 +1,5 @@
 <p>
+ <img align="center" src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -10,7 +11,6 @@
     <img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="center" height='300px'>   
     <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <p align="center">
-    <img src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&bg_color=000080&title_color=9400D3&text_color=00CED1" />
     <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=00CED1&bg_color=000080" />
 </p>
