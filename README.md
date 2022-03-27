@@ -2,7 +2,7 @@
  
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
- <p align="center"><img width=30px height=90px src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
+ <p align="center"><img width=90px height=30px src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
  
 </p>
