@@ -9,11 +9,11 @@
 
 <p align="center">
     <img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="center" height='300px'> 
-    <p align="center"><img alt="center_sticker" src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
     <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&bg_color=000080&title_color=9400D3&text_color=00CED1" />
     <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=00CED1&bg_color=000080" />
+ <p align="center"><img alt="center_sticker" src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
 </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&theme=react-dark) 
