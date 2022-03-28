@@ -46,8 +46,8 @@
 <p align="left">
   <img src="https://ib.canaltech.com.br/361132.gif" />
  </p>
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=120&section=footer"/>
 <p>
  <p align="center"><img src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=120&section=footer"/>
+
