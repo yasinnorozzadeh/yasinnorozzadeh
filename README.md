@@ -40,14 +40,14 @@
    <a href="https://github.com/YasinNorozzadeh/YasinNorozzadeh"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
-<div style="display: inline_block"  >
+<div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 </div>
 <p align="left">
   <img src="https://ib.canaltech.com.br/361132.gif" />
  </p>
-<p>
+<div>
  <p align="center"><img src="https://count.getloli.com/get/@yasnnorozzadeh?theme=rule34" />
-</p>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=120&section=footer"/>
 
