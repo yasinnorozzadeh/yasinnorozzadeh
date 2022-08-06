@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
 </p>
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&color=58a6ff&line=114a88&point=58a6ff) 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&line=114a88&point=58a6ff) 
 
 <summary><b>Profile</b></summary>
  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
