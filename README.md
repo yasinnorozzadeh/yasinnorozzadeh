@@ -44,6 +44,3 @@
 </div> -->
 <!-- <img width="85%" align="center" src="https://wakatime.com/share/@6e7b79e7-5e44-40b8-8817-d8a277e5adf8/849c82b5-e50e-434b-9530-4426fb92bd04.svg" alt="Yasin's waka time stats" /> -->
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=120&section=footer"/> -->
-
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=yaasinnorozzadeh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
