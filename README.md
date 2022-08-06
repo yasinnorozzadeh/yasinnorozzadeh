@@ -15,7 +15,7 @@
  
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&theme=react-dark) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&theme=react-dark&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a) 
 
 <summary><b>Profile</b></summary>
  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
