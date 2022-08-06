@@ -23,7 +23,7 @@
 
 <p align="center">
    
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&bg_color=000080&column=7"/>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&column=7"/>
 
 </p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
