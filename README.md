@@ -32,7 +32,8 @@
   </p>
 </details>
 <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+<!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" /> -->
+  ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/output/github-contribution-grid-snake.svg)
 </div>
 <p align="left">
   <img src="https://ib.canaltech.com.br/361132.gif" />
