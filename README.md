@@ -28,7 +28,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
 <details open="">
   <p align="center">
-   <a href="https://github.com/YasinNorozzadeh/YasinNorozzadeh"><img alt="Snake animation" src="https://github.com/YasinNorozzadeh/YasinNorozzadeh/blob/output/github-contribution-grid-snake.svg"/></a>
+  <img alt="Snake animation" src="https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
   </p>
 </details>
 <div>
@@ -43,6 +43,5 @@
 <!-- <img width="85%" align="center" src="https://wakatime.com/share/@6e7b79e7-5e44-40b8-8817-d8a277e5adf8/849c82b5-e50e-434b-9530-4426fb92bd04.svg" alt="Yasin's waka time stats" /> -->
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=120&section=footer"/> -->
 <!-- ![snake gif](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/output/github-contribution-grid-snake.gif)   -->
-<div>
- ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/output/github-contribution-grid-snake.svg)
-</div>
+<!--  ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/output/github-contribution-grid-snake.svg)
+ -->
