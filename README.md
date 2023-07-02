@@ -28,6 +28,13 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
 <details open="">
   <p align="center">
+   <div> 
+ 
+  ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-contribution-grid-snake.svg)
+    
+  [![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social)](https://github.com/yasinnorozzadeh)
+
+</div>
   <img alt="Snake animation" src="https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
   </p>
 </details>
