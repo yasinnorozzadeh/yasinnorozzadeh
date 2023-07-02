@@ -30,7 +30,7 @@
   <p align="center">
    <div> 
  
-  ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/.github/workflows/github-contribution-grid-snake.svg)
     
   [![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social)](https://github.com/yasinnorozzadeh)
 
