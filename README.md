@@ -31,9 +31,14 @@
 </p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <div>
- ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/.github/workflows/github-contribution-grid-snake.svg)
- [![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social)](https://github.com/yasinnorozzadeh)
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+</div>
+<div> 
+ 
+  ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/.github/workflows/github-contribution-grid-snake.svg)
+    
+  [![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social)](https://github.com/yasinnorozzadeh)
+
 </div>
 <p align="left">
   <img src="https://ib.canaltech.com.br/361132.gif" />
