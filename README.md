@@ -52,3 +52,5 @@
 <img src="https://raw.githubusercontent.com/yasinnorozzadeh/yasinnorozzadeh/main/intro.gif"/>
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
+<img src="dog.gif" width=20%>
