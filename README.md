@@ -35,7 +35,7 @@
 </div>
 <div> 
  
-  ![Snake animation](github-user-contribution.svg)
+  ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-user-contribution.svg)
     
   [![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social)](https://github.com/yasinnorozzadeh)
 
