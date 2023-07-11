@@ -35,9 +35,9 @@
 <div> 
   ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-user-contribution.svg) 
 </div>
-<div align="center">
+<!-- <div align="center">
 ![VisitorCount](https://profile-counter.glitch.me/{yasinnorozzadeh}/count.svg)
-</div>
+</div> -->
 
  <!--  [![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social)](https://github.com/yasinnorozzadeh)  -->
 <!--  <img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="center" height='300px'>  -->
