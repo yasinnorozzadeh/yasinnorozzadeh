@@ -40,7 +40,7 @@
  
 </div>
 <!-- <div align="center">
-![VisitorCount](https://profile-counter.glitch.me/{yasinnorozzadeh}/count.svg)
+<!-- ![VisitorCount](https://profile-counter.glitch.me/{yasinnorozzadeh}/count.svg) -->
 </div> -->
 
  <!-- 
