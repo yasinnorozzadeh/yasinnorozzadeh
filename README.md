@@ -12,7 +12,12 @@
  
 <p align="center">
 <!--  <img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="center" height='300px'>  -->
-    <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+   
+ <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+ <p align="center"><img src="https://count.getloli.com/get/@yasinnorozzadeh?theme=rule34" />
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img src="https://raw.githubusercontent.com/yasinnorozzadeh/yasinnorozzadeh/main/intro.gif"/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&text_color=000&icon_color=000&bg_color=000" />
     <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&text_color=000&icon_color=000&bg_color=000" />
@@ -45,9 +50,6 @@
 
 </div>
 
- <p align="center"><img src="https://count.getloli.com/get/@yasinnorozzadeh?theme=rule34" />
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<img src="https://raw.githubusercontent.com/yasinnorozzadeh/yasinnorozzadeh/main/intro.gif"/>
+
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
