@@ -33,8 +33,11 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 </div>
 <div> 
+ 
   ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-user-contribution.svg) 
+  
   ![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social)](https://github.com/yasinnorozzadeh) 
+ 
 </div>
 <!-- <div align="center">
 ![VisitorCount](https://profile-counter.glitch.me/{yasinnorozzadeh}/count.svg)
