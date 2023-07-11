@@ -15,8 +15,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <img src="https://raw.githubusercontent.com/yasinnorozzadeh/yasinnorozzadeh/main/intro.gif"/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&text_color=000&icon_color=000&bg_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&text_color=000&icon_color=000&bg_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&text_color=000&icon_color=000&bg_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&text_color=000&icon_color=000&bg_color=FFFFFF" />
 </p>
 
 
