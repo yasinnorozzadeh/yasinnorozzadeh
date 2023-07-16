@@ -42,9 +42,7 @@
 
 </div>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=yasinnorozzadeh&label=Profile%20Views&color=12&icon=9&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=yasinnorozzadeh&label=Profile%20Views&color=12&icon=9&pretty=true)](https://visitcount.itsvg.in)
 <!-- <div align="center">
 <!-- ![VisitorCount](https://profile-counter.glitch.me/{yasinnorozzadeh}/count.svg) -->
 
