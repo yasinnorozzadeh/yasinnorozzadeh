@@ -37,7 +37,7 @@
   ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-user-contribution.svg) 
   
   ![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social)
-  [![](https://visitcount.itsvg.in/api?id=yasinnorozzadeh&icon=0&color=0)](https://visitcount.itsvg.in)
+  [!](https://visitcount.itsvg.in/api?id=yasinnorozzadeh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
