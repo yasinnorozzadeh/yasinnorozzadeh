@@ -37,7 +37,8 @@
   ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-user-contribution.svg) 
   
   ![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social)
-  
+  [![](https://visitcount.itsvg.in/api?id=yasinnorozzadeh&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
@@ -46,4 +47,3 @@
 
 <!--  <img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="center" height='300px'>  -->
 <!--  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  -->
-[![](https://visitcount.itsvg.in/api?id=yasinnorozzadeh&icon=0&color=0)](https://visitcount.itsvg.in)
