@@ -41,7 +41,7 @@
 
 </div>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
-[!](https://visitcount.itsvg.in/api?id=yasinnorozzadeh&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 <!-- <div align="center">
 <!-- ![VisitorCount](https://profile-counter.glitch.me/{yasinnorozzadeh}/count.svg) -->
 
