@@ -1,4 +1,4 @@
-
+[![](https://visitcount.itsvg.in/api?id=yasinnorozzadeh&label=Profile%20Views&color=12&icon=9&pretty=true)](https://visitcount.itsvg.in)
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
@@ -24,11 +24,11 @@
  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinnorozzadeh&theme=github_dark" alt="yasinnorozzadeh" align = "center"/>
 </p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
-<!-- ![](https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&theme=monokai&no-frame=false&no-bg=false&margin-w=4) -->
 
 <p align="center">
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&theme=monokai&column=7&no-frame=false&margin-w=4"/>
-</p> -->
+</p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
@@ -42,7 +42,7 @@
 
 </div>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
-[![](https://visitcount.itsvg.in/api?id=yasinnorozzadeh&label=Profile%20Views&color=12&icon=9&pretty=true)](https://visitcount.itsvg.in)
+
 <!-- <div align="center">
 <!-- ![VisitorCount](https://profile-counter.glitch.me/{yasinnorozzadeh}/count.svg) -->
 
