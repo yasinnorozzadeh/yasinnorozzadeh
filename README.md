@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=yasinnorozzadeh&label=Profile%20Views&color=12&icon=9&pretty=true)](https://visitcount.itsvg.in)
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
