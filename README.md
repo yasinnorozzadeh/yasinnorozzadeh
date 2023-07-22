@@ -47,3 +47,9 @@
 
 <!--  <img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="center" height='300px'>  -->
 <!--  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  -->
+
+<details>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yasinnorozzadeh">
+<img src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh">
+</details>
+
